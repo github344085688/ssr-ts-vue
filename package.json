@@ -12,7 +12,7 @@
     "start": "npm run build:client && npm run build:server && npm run server"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "browserslist": "^4.13.0",
     "caniuse-lite": "^1.0.30001099",
     "rxjs": "^6.4.0",
