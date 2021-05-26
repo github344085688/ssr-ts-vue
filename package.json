@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "browserslist": "^4.13.0",
+    "browserslist": "^4.16.5",
     "caniuse-lite": "^1.0.30001099",
     "rxjs": "^6.4.0",
     "vee-validate": "^2.2.9",
